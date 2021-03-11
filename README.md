@@ -1,4 +1,4 @@
-# Data Science Challenge
+# Battery Engineering Challenge
 
 The following [dataset](https://data.matr.io/1/api/v1/file/5c86bd7ffa2ede00015ddbd0/download) contains data from Li-Ion batteries that have been continuously charged and [discharged](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204).
 
@@ -10,14 +10,19 @@ Please prepare the following tasks:
 
 Follow these steps:
 
-1. Reading the data into e.g. JupyterLabs
+1. Read the data into your framework of choice
 
 2. Clean + visualize the data
 
-3. Selection of possible ML models
+3. Select, develop and evaluate possible ML models and its outcome
 
-4. Reasoned decision for a ML model
+4. Justify the decision for a ML model
 
+## How to submit the Challenge
+
+Only the final notebook has to be submitted. Please comment on the notebook the task 4.
+
+Please push you notebook to a bitbucket private repository and grant access to the user jobs@circunomics.com.
 
 ## Thinks to keep in mind:
 
